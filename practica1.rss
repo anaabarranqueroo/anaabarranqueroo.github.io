@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Las noticias del AS</title>
+        <link>https://as.com/</link>
+        <description>Noticias sobre el periódico AS</description>
+        <item>
+            <title>Los jugadores del Real Valladolid, a tortas en La Cerámica</title>
+            <link>https://as.com/futbol/primera/los-jugadores-del-real-valladolid-a-tortas-en-la-ceramica-n/</link>
+            <description>Después del partido ante el Villarreal, al menos tres jugadores se pelearon en la caseta visitante del estadio del submarino amarillo. </description>
+            <author>Felipe el de los palotes<author>
+        </item>
+        <item>
+            <title>Davies renueva con el Bayern: este es su nuevo contrato con una importante subida salarial</title>
+            <link>https://as.com/futbol/internacional/davies-renueva-con-el-bayern-este-es-su-nuevo-contrato-con-una-importante-subida-salarial-n/</link>
+            <description>El culebrón llega a su fin: el lateral canadiense dice no al Real Madrid y amplía su contrato con el conjunto alemán hasta 2030.</description>
+            <author>Felipe el de los palotes<author>
+        </item>
+        <item>
+            <title>Doncic, presentado con los Lakers: </title>
+            <link>https://as.com/baloncesto/nba/doncic-presentado-con-los-lakers-voy-a-jugar-en-el-mejor-equipo-del-mundo-n/</link>
+            <description>Luka Doncic ya es jugador de los Lakers, donde vestirá el número 77 en la camiseta. El esloveno repasó ante la prensa el traspaso y el futuro cercano.</description>
+            <author>Felipe el de los palotes<author>
+        </item>
+    </channel>
+</rss>
